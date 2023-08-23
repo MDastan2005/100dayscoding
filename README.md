@@ -8,3 +8,5 @@ Day 2: Students attendance manager with excel and emails
 Day 3: Python accurate timer with threading
 
 Day 4: App to scrap names and recipes from allrecipes.com
+
+Day 5: App to analyse tweets' sentiments.
